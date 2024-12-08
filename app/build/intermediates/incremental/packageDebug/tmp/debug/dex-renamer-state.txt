@@ -1,0 +1,4 @@
+#Sun Dec 08 10:04:30 GMT+03:30 2024
+base.0=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

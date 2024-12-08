@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/content_change_config.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/content_change_config.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/fragment_terminal.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/device_list_item.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/device_list_item.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/device_list_header.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/device_list_header.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/fragment_first.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/activity_change_config.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/activity_change_config.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-mergeDebugResources-3:/layout/fragment_second.xml",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/layout/fragment_second.xml"
+    }
+]

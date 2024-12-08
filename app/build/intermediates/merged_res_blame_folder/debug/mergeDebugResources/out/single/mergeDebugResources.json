@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable_deliverd_background.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable\\deliverd_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-hdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-hdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-mdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-mdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xxhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xxxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xxxhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_fragment_terminal.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\fragment_terminal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\raw_sent.mp3.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\raw\\sent.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\menu_menu_devices.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\menu\\menu_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\menu_menu_terminal.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\menu\\menu_terminal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\raw_recieve.mp3.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\raw\\recieve.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_activity_change_config.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\activity_change_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\raw_delivery.mp3.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\raw\\delivery.mp3"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_device_list_item.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "de.kai_morich.simple_bluetooth_terminal.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "de.kai_morich.simple_bluetooth_terminal.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable_ic_send_white_24dp.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_device_list_header.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\device_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\layout_content_change_config.xml.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\layout\\content_change_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-debug-4:\\drawable-xhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Developer\\.gradle\\daemon\\8.9\\de.kai_morich.simple_bluetooth_terminal.app-main-6:\\drawable-xhdpi\\ic_clear_white_24dp.png"
+    }
+]
