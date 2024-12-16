@@ -1,4 +1,13 @@
-#Sat Dec 14 09:43:48 GMT+03:30 2024
-base.0=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Mon Dec 16 10:22:24 GMT+03:30 2024
+path.3=7/classes.dex
+path.2=14/classes.dex
+path.1=0/classes.dex
 path.0=classes.dex
+base.3=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.2=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.1=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=A\:\\IPAC_Projects\\social-network-offline\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

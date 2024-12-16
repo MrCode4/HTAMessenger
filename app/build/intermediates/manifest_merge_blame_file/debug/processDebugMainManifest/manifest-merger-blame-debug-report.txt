@@ -48,76 +48,77 @@
 30-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:15:9-43
 31        android:label="@string/app_name"
 31-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:16:9-41
-32        android:theme="@style/AppTheme" >
-32-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:17:9-40
-33        <activity
-33-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:19:9-23:47
-34            android:name="de.kai_morich.simple_bluetooth_terminal.ChangeConfig"
-34-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:20:13-41
-35            android:exported="false"
-35-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:21:13-37
-36            android:label="@string/title_activity_change_config"
-36-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:22:13-65
-37            android:theme="@style/AppTheme" />
-37-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:23:13-44
-38        <activity
-38-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:24:9-33:20
-39            android:name="de.kai_morich.simple_bluetooth_terminal.MainActivity"
-39-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:25:13-41
-40            android:exported="true"
-40-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:26:13-36
-41            android:windowSoftInputMode="stateHidden|adjustResize" >
-41-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:27:13-67
-42            <intent-filter>
-42-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:28:13-32:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:29:17-69
-43-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:29:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:31:17-77
-45-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:31:27-74
-46            </intent-filter>
-47        </activity>
-48
-49        <service android:name="de.kai_morich.simple_bluetooth_terminal.SerialService" />
-49-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:35:9-50
-49-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:35:18-47
-50
-51        <provider
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-52            android:name="androidx.startup.InitializationProvider"
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-53            android:authorities="de.kai_morich.simple_bluetooth_terminal.androidx-startup"
-53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-54            android:exported="false" >
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-55            <meta-data
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-57                android:value="androidx.startup" />
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-58            <meta-data
-58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-60                android:value="androidx.startup" />
-60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-61        </provider>
-62
-63        <uses-library
-63-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
-64            android:name="androidx.window.extensions"
-64-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
-65            android:required="false" />
-65-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
-66        <uses-library
-66-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
-67            android:name="androidx.window.sidecar"
-67-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
-68            android:required="false" />
-68-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
-69    </application>
-70
-71</manifest>
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:17:9-40
+34        <activity
+34-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:19:9-23:47
+35            android:name="de.kai_morich.simple_bluetooth_terminal.ChangeConfig"
+35-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:20:13-41
+36            android:exported="false"
+36-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:21:13-37
+37            android:label="@string/title_activity_change_config"
+37-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:22:13-65
+38            android:theme="@style/AppTheme" />
+38-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:23:13-44
+39        <activity
+39-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:24:9-33:20
+40            android:name="de.kai_morich.simple_bluetooth_terminal.MainActivity"
+40-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:25:13-41
+41            android:exported="true"
+41-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:26:13-36
+42            android:windowSoftInputMode="stateHidden|adjustResize" >
+42-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:27:13-67
+43            <intent-filter>
+43-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:28:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:29:17-69
+44-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:29:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:31:17-77
+46-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:31:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <service android:name="de.kai_morich.simple_bluetooth_terminal.SerialService" />
+50-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:35:9-50
+50-->A:\IPAC_Projects\social-network-offline\app\src\main\AndroidManifest.xml:35:18-47
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+54            android:authorities="de.kai_morich.simple_bluetooth_terminal.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Developer\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Developer\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+62        </provider>
+63
+64        <uses-library
+64-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+65            android:name="androidx.window.extensions"
+65-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+66            android:required="false" />
+66-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+67        <uses-library
+67-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+68            android:name="androidx.window.sidecar"
+68-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+69            android:required="false" />
+69-->[androidx.window:window:1.0.0] C:\Users\Developer\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+70    </application>
+71
+72</manifest>
